@@ -2,9 +2,8 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on basic coding
-- 📫 How to reach me
-- currently no information
-- 😄 Pronouns: he him
+- 📫 How to reach me: no information yet
+- 😄 Pronouns: he him his
 - ⚡ Fun fact: i like football
 
 <!---
