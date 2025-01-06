@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexhft7
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on basic coding
+- 💞️ currently working on repostionorys.
 - 📫 How to reach me: no information yet
 - 😄 Pronouns: he him his
 - ⚡ Fun fact: i like football
